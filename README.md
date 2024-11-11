@@ -1,4 +1,4 @@
-Medop - Sistema de Gestión para Ópticas
+# Medop - Sistema de Gestión para Ópticas
 
 Medop es una plataforma diseñada para la centralización de datos y la gestión de inventario en ópticas. Este sistema permite a las ópticas gestionar de manera eficiente su inventario de productos, controlar ventas y mantener un registro de clientes, todo desde una sola plataforma accesible tanto en versión web como móvil.
 Tecnologías utilizadas
